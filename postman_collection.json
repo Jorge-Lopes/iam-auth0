@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "948254b7-5aa9-4a19-ba55-2c7275e8a4cc",
+		"name": "iam_auth0",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40553854"
+	},
+	"item": [
+		{
+			"name": "home_page",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Cookie",
+						"value": "appSession=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzYzNjU0MzI5LCJ1YXQiOjE3NjM2NTQzMjksImV4cCI6MTc2Mzc0MDcyOX0..ZADTurA0q3wDwGSM.o9tfrjNUY0LWKTdr-BhUKu6CCbLIwNsOUPf7kEmquD54wtFojZNOKyTewd8dhy3w0Psfpj6YPlJPixn3_7tLYCa2UUfGoN1YeyQjohsOcrLhkGxBp_N8qpZrYN2QE9tZvpCWpQMXWLoHc7n0Rsr9geN-KX2d500byhJQbvT4zKuC81vfeeO1lg8AfztTQre8_B1UTZ6wcum2sLcm4QcgzxnVmitN1Cl-QeKGlyHm2ACmeZWwP3-mLCFFfnCjCGndE_8oklabU4gGhhJv33lNe7Bz74H1o-SBu-DnGclP6LHTiPCTlb-NkhYxOam4RGhTqVWCdkxbbfg1fesY1vOCk-EPYlWsI0X-q7UtmtLlTEq0HNlZs8poOdjqe6QBplHLYRe3Fq4it4xz2ZlAqTnoLPQYfSHTKrs1J0qAZe9n2jPc-RuLv-EpJVfJXYgww9GkCknZ9puh4vGFrbGa1zUkhxrK9AkrCFpNUNcx_iwGglfmYt6qMMJMPdaYVhDYB21Dl5Y5pj7N4y9oWiU8x-LGTY-dJGjC7YCtrEkmziDGMoJbhBF7rnAHjiNbJxY6k8V2g3hZMlDlgLikz-mb-zHKFFRK6ILA-5JigedFLXTYLQVRRFVpSk5VxLuPOG-xcZvpT_xEdbuQDek3BeTeUhuM1hz5eVIE98I0TyTECPPsbNWy8__vHROqNN9E6NhcogiwLg1-7ZsY44c4tmv0m0xAVMQWYqFlwt24l9Uszmfj3uBsG4es6CnM7qQcBvjRe3SUs3CBnIHjE7EyvGStmkMcKN1ry-RYaOD1kRH4Et4LZeLgpB6merfL8g_XXteLZqAPi3tNC3BdaBQfEDJfd7sEBypvM5knyfdj84PHUb_TGyZ1TkgbUvLJH2WAqUyY65IqhpR_0KfszqZaFinj9oR9jdMo3HlG8YYCUH1VagbWTVjfkHDhJCfcxrqDfEqQplqAwFJ6ZSWSW_u68WaDxeeH27rtgQX8DECvQN2O6CVDEjyxuVxzCrgvfpTiqYjiXnKpWylm73TpezCTN-GWXjIvrem8FX6X7rtHfv3WkudeRImxFmTsArcFcJ1EVE5ZhJuCS1p6EyVHVfxEsFQgTJlIPbEUPzFYaHXAx1Gjf1APRuGZnWjmZnJL_YJ06_BHPVA3kxjnfBYPTyLBBPo_Uj5IIzdXvbcx1QzkPGQ-CFg5QENr-nsJ1TFOb5GIRmcwIfwJWegSVDot8aKPG2RrqNcXRC3tHdN-Uglg9FaLFoulk-2SiyTYVvzBqK8795t_1tFl8hRTORtof--B99HpfBS84RlTQrFAemtjzmzbdOMHVcPagPCE9JEr58JQEjoxy6mj-F8TI7RWoebluD42r4TjyMnH9lehOmDBA4S0QSpcmHIK05plWLDNhOdT6dV0L7C7WnB0B5fEwlq2JjD2r6eIygc-2m5Ors3GzEf-uxKu7EdO5aPWjVyp7-_JKE3ETbL9zAOuS9WCV0a8xbABeG00ZWpPLsKqldTjKw2AWpKFvaASN3rAxpzoYy9rPfh7z5kWg1RdGSLPbaApJjxiFUgNBQiXyN4gyP4_rkBf2Tln8DB6mExPnALIsmx5G2JnqHekefi4wEReCDkRDplefnDvBjxXcqJvZZ-FzxbW3b93ix_vlm5I6p6cnuOEu13H30WG-_UVDPFFDOdTUOtpkD4bSzVQkJCCgRNmULaNHde9hMFZBEjJUXu6NQWOo4dz8RsBVnE-8-cxWDOowS_Hqd903JLiBdFdcmu2S-uxyxMqKNFK93UuaxUyRKAXbtTYKLFKHPXKMgkXZFpojSO2C0j1JdqGpKY8-hVtcBPJNkjnkihazdiB-mbMtzDuD5hGUYJjsc2AnVfWCJKGUw3NKqzsK2VKx3p_039hwr5MQOKLq5OUTFo90N45yXY3vOzyxmRalCCRgus8EBtins9Y6bG5J6CNIEadvG1fCXGe_83PMuVA4rJzLzREAUYvUAsa8niQLKa1_V4gkmjHJpFLbFELEzmBWbJ872VWrjsCkeiTnIB7pu-rPdr6DPbpoQ7VPVbIkITCmhWFoKJcURK-21_KnqZTrbqh1gRlPdPKuIouUqammndvot99qI_qlzCuZY7VhDh6m_q2wrk9dcEufWgb87LoCmDASQrhoUtjnR3BRM0CjNiC9Eg-maXI0fhnuu5ckSZvSSMBLk8VfqIenZRNwQ7n8LJzrdbdKAEtZpXDcPNZH3eeoHckuNSjZaN1w7n4yqKZ2KJPWIpapJskXYvlVHxvvH-IoAYCfhCSpeNuVIwzSUmMEzTTvAExyI3N7pWkk_Wd0eIYQgjCReXiOCpeBiaf7khRavD58YJVmXFHn8f_alQ89y0KvXbmQNsgoDjk_vpZGTvHagMoeOsZrC1Kz_KN81XJ_a6_YdVh49INIJbxmiTuvNRa2_-ze4CFJximObSSarE6PRjbm3JM2Rcu19FFyDLd4guF-QLpsOLuBF2nmduK9ZJlVj74QxQhywf8hmZqpTkQIFVksOqb9PZ-atsjTDFPFAIbuEgI8jifaDxwONs73BYFrxkUtGty_gzfMHjn0CjhISzt8_qKv4Q4UVFVtmn0q6FAzPWd470s_YymXPhQjq6Wz-pHQJjTDYwDMWY5l2h6-UV6Hh2aqbXhxFO9zBoEYI4fRDIGCpTLqdUJxGtcNXGkITW86QISzKGPPtPItKydT62rzxBtd0kLi8tJes6kJ8qwVEZNZLHPE4PDgzgd5f1JiBBeKfo59X7QRbSnokXfr0LoVOEuxZM5cql0cJ0BRAu1PHES2muRZtlXWY0ZOsTOb4PbtQBkfsZEgSHD8dYQDLsV-nkSlQZ5fMTfPddkoRCn4Rf60xgO5VCDYQZhF-RYF8kTJhKO5HT5_K7IV87R_JruLmSsfwaERS_a0cArdCeOI_58TfCVKTFF1USbBAD2IXo-gY9tMqlWmSyVu9xhOjkZkBkOAJ5RDlJtbU5mTSD9gXKbrqRVOZqd_hco9hhKRfqK-vh9OcA8D5pIHDxvEbRgqBGvsQydLzNQsHEDbF7OG4JcYXDZkIWoXU2VeegBz-gyyOiiV63prLu5K218xxliTOyZKXveg-5sarvi_YUU7U_YTMmLr5UdXpHXKVfEbree9xswc0Rut5rE9wGnvh7bN8tkO7GjX7WFsF356Izh5vksPzl73LaUTrwqH7SRUADBqVZ4ZYQ1EqcPeP3rM508-dGnRTKFXjTtHzXvBHDvyp-V6paxJj0U1LjOW6nvHUjyqUZUEYHvaJcLxiSilEjTYqhvScDxTFRaFvCf7nexxMfon-MHYCTZ15ca1D868p317Qnfvp4OeRU241hzbkUjITn2yteVFTHOlj8VEUJbhgkMTACHbKeEo-grvREWJyKliqkGLUxhR8GIICVhM3-EE-CBvsAqPZHRZOPD7jT_M_U0x5wFRMNZa7DJE6cMyGA5XQSJQW15ZwCa2uX_3gWqSxjJhICSAHIf17WIY5Jbw6BAZyDmyRm8aPGW1boHuBw9Blsj38k5bSX1CxQXSIh_UN0zR2m5DhfIkjgc9jDgDg7pQiRftSj59bx5kHF-m2tTe8PriQmGvFhjKU4Ja0wz1rR4AhrPECzUNAZSveTrExMIzSg.toAV_NzF9-4pOL6U4OQFyA",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:3000/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "profile",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/profile",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"profile"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "role",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/product",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/product",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "oauth2",
+		"oauth2": [
+			{
+				"key": "grant_type",
+				"value": "authorization_code",
+				"type": "string"
+			},
+			{
+				"key": "tokenName",
+				"value": "Auth0 Access Token",
+				"type": "string"
+			},
+			{
+				"key": "addTokenTo",
+				"value": "header",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
