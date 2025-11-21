@@ -55,8 +55,8 @@ Follow these steps to get the project running locally and integrate it with Auth
 ### Clone the Repository and Install Dependencies
 
 ```sh
-git clone <repository-url>
-cd iam
+git clone https://github.com/Jorge-Lopes/iam-auth0.git
+cd iam-auth0
 npm install
 ```
 
